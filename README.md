@@ -7,9 +7,10 @@ The website will have (for development purpose):
 2. SignIn page for users who have already registered
 3. GetStarted page for new users
 4. Profile page
-    1. ReadingList
-    2. List of blogs published
-    3. About
+    1. CreateBlog button
+    2. ReadingList
+    3. List of blogs published
+    4. About
 5. HomePage for users
     1. Search option
     2. Profile button
